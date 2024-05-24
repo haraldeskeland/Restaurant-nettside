@@ -1,4 +1,4 @@
-Link til siden: https://haraldeskeland.github.io/Resturant-nettside/
+Link til siden: https://haraldeskeland.github.io/Restaurant-nettside/
 
 # Restaurant Nettside Prosjekt
 
