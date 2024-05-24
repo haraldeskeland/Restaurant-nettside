@@ -1,4 +1,4 @@
-Link til siden: https://haraldeskeland.github.io/eksamen-webutvikling/
+Link til siden: https://haraldeskeland.github.io/Resturant-nettside/
 
 # Restaurant Nettside Prosjekt
 
